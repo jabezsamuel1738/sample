@@ -16,7 +16,7 @@
     "@react-navigation/bottom-tabs": "^6.5.11",
     "@react-navigation/native": "^6.1.9",
     "@react-navigation/native-stack": "^6.9.17",
-    "@testing-library/react": "^14.2.1",
+    "@testing-library/react": "^16.0.0",
     "appcenter": "5.0.1",
     "appcenter-analytics": "5.0.1",
     "appcenter-crashes": "5.0.1",
